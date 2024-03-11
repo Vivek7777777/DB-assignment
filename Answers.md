@@ -2,7 +2,7 @@
 
 - The relation between "Product" and "Product_Category" is One-to-Many Relationship.
 - The "Product_Category" entity acts as a container for various products based on category.
-- It allows efficient managment and retrieval of products based on their category. 
+- It allows efficient management and retrieval of products based on their category. 
 
 -------
 
